@@ -1,0 +1,21 @@
+{
+  "name": "mkyong",
+  "age": {
+    "name2": "prb",
+    "age2": "18"
+  },
+  "list": [
+    {
+      "name3": "prb",
+      "age3": "18"
+    },
+    {
+      "name4": "lijie",
+      "age4": "32"
+    }
+  ],
+  "list2": [
+    "hello",
+    "world"
+  ]
+}
